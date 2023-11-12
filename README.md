@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GadAugust</h1>
 <h3 align="center">A passionate Data & BI Engineer</h3>
-<img src="https://www.future-processing.com/blog/wp-content/uploads/2021/08/fp-graph-binteligence.jpg">
+<img align="right" width="400" src="https://www.future-processing.com/blog/wp-content/uploads/2021/08/fp-graph-binteligence.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gadaugust&label=Profile%20views&color=0e75b6&style=flat" alt="gadaugust" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gadaugust" target="blank"><img src="https://img.shields.io/twitter/follow/gadaugust?logo=twitter&style=for-the-badge" alt="gadaugust" /></a> </p>
