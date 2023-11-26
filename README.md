@@ -22,7 +22,7 @@ My primary focus is on cultivating proficiency in Microsoft Power BI and data en
 
 
 
-- 🌱 I’m currently learning **Apache Hadoop, SparkSQL and GCP** <br>
+- 🌱 I’m currently learning **Azure Synapse Analytics, Azure Data Lake Storage Gen2, Azure Databricks and Azure Data Factory <br>
 - 💼 Job interests: **Data & BI Engineer, Database Engineer**.
 
 - 💬 Ask me about **Data Engineering And Business Intelligence**
