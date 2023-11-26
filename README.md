@@ -16,7 +16,7 @@ I am a Data and Business Intelligence Engineer, actively contributing to the the
 <br><br>
 My primary focus is on cultivating proficiency in Microsoft Power BI and data engineering through hands-on project collaborations. By leveraging my computing background, I aim to excel in transforming data into valuable insights and facilitating robust business intelligence solutions. As a data specialist, I am skilled in using PowerBI to create impactful visualizations. My passion extends to the dynamic intersection of data engineering,BI, community building, and innovative project endeavors within the University of Northampton Computing Society.
 
-<img align="right" width="400" src="https://www.future-processing.com/blog/wp-content/uploads/2021/08/fp-graph-binteligence.jpg">
+<img align="right" width="600" src="https://learn.microsoft.com/en-us/training/wwl-data-ai/introduction-to-data-engineering-azure/media/3-data-engineering-azure.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gadaugust&label=Profile%20views&color=0e75b6&style=flat" alt="gadaugust" /> </p>
 
 
