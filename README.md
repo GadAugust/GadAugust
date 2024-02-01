@@ -12,24 +12,17 @@
 
 
 
-I am a Data and Business Intelligence Engineer, actively contributing to the the <a href="https://www.northampton.ac.uk/" target="_blank">University of Northampton Computing Society</a> as a Business Intelligence (BI) Developer, specializing in Data Analytics and Data Engineering. My expertise lies in the realms of business intelligence, data analytics and engineering, community engagement, and technical writing. With a fervor for knowledge dissemination and a strong commitment to open-source initiatives, I actively contribute to the realms of documentation and data engineering.
-<br><br>
-My primary focus is on cultivating proficiency in Microsoft Power BI and data engineering through hands-on project collaborations. By leveraging my computing background, I aim to excel in transforming data into valuable insights and facilitating robust business intelligence solutions. As a data specialist, I am skilled in using PowerBI to create impactful visualizations. My passion extends to the dynamic intersection of data engineering,BI, community building, and innovative project endeavors within the University of Northampton Computing Society.
-
-<img align="right" width="600" src="https://learn.microsoft.com/en-us/training/wwl-data-ai/introduction-to-data-engineering-azure/media/3-data-engineering-azure.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gadaugust&label=Profile%20views&color=0e75b6&style=flat" alt="gadaugust" /> </p>
+I am a community data and analytics engineer, actively contributing to the data engineering community at 10Alytics as a consultant  My expertise lies in the realms of business intelligence, data analytics and engineering, community engagement, and technical writing. With a fervor for knowledge dissemination and a strong commitment to open-source initiatives, I actively contribute to the realms of documentation and data engineering.
 
 
 
 
-- 🌱 I’m currently learning **Azure Synapse Analytics, Azure Data Lake Storage Gen2, Azure Databricks and Azure Data Factory <br>
 - 💼 Job interests: **Data & BI Engineer, Database Engineer**.
 
 - 💬 Ask me about **Data Engineering And Business Intelligence**
 
 - 📫 How to reach me **gadnwachukwu2@gmail.com**
 
-- ⚡ Fun fact: <br> **I'm the coding maestro with my SQL Sword, Python Wand, Linux Shield, and Java Hammer. With a sprinkle of coding fairy dust, I summon data wonders,<br> script solutions in a flash, and squash bugs like they owe me money. <br>Whether I'm salsa dancing with databases or juggling Java,<br> I turn tech challenges into a comedy show of 1s and 0s! 😎💻✨**
 
 
 
