@@ -17,11 +17,10 @@ I am a community data and analytics engineer, actively contributing to the data 
 
 
 
-- 💼 Job interests: **Data & BI Engineer, Database Engineer**.
+- 💼 Job interests: **Data & BI Engineer, Database Engineer, Data Architect, Data Warehouse Engineer, Data Integration Engineer, Data Platform Engineer, Cloud Data Engineer, ETL Developer, Data Operations Engineer, Big Data Engineer, Streaming Data Engineer, Machine Learning Engineer, backend Software engineer**.
 
-- 💬 Ask me about **Data Engineering And Business Intelligence**
 
-- 📫 How to reach me **gadnwachukwu2@gmail.com**
+
 
 
 
