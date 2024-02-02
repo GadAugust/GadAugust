@@ -35,6 +35,6 @@ I am a community data and analytics engineer, actively contributing to the data 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gadaugust&show_icons=true&locale=en&layout=compact" alt="gadaugust" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gadaugust&show_icons=true&locale=en" alt="gadaugust" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gadaugust&" alt="gadaugust" /></p>
+
+
