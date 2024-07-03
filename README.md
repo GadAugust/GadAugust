@@ -12,8 +12,9 @@
 
 
 
-I am a community data and analytics engineer, actively contributing to the data engineering community at 10Alytics as a consultant  My expertise lies in the realms of business intelligence, data analytics and engineering, community engagement, and technical writing. With a fervor for knowledge dissemination and a strong commitment to open-source initiatives, I actively contribute to the realms of documentation and data engineering.
+Proficient in developing Azure compute solutions, including monitoring and troubleshooting Azure environments, and designing storage solutions. Skilled in integrating and consuming both Azure and third-party services, with a strong focus on dynamically orchestrating and optimising Azure data factory pipelines.
 
+Committed to maintaining data systems that are accurate, highly secure, and consistently available. Ensuring compliance with relevant regulations such as the General Data Protection Regulation (GDPR).
 
 
 
