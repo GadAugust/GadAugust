@@ -11,14 +11,9 @@
 
 
 
+Proficient in designing and implementing data-driven solutions using cloud platforms like Azure, with expertise in developing and monitoring compute environments and data pipelines. Skilled in optimizing and orchestrating Azure Data Factory pipelines, as well as integrating Azure services with third-party APIs to support dynamic and scalable backend systems.
 
-Proficient in developing Azure compute solutions, including monitoring and troubleshooting Azure environments, and designing storage solutions. Skilled in integrating and consuming both Azure and third-party services, with a strong focus on dynamically orchestrating and optimising Azure data factory pipelines.
-
-Committed to maintaining data systems that are accurate, highly secure, and consistently available. Ensuring compliance with relevant regulations such as the General Data Protection Regulation (GDPR).
-
-
-
-- 💼 Job interests: **Data & BI Engineer, Database Engineer, Data Architect, Data Warehouse Engineer, Data Integration Engineer, Data Platform Engineer, Cloud Data Engineer, ETL Developer, Data Operations Engineer, Big Data Engineer, Streaming Data Engineer, Machine Learning Engineer, backend Software engineer**.
+Dedicated to maintaining robust and secure data systems, ensuring high availability, reliability, and compliance with regulations such as GDPR. Experienced in designing data storage solutions, implementing data governance practices, and troubleshooting complex backend and data integration challenges.**.
 
 
 
