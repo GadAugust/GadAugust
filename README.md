@@ -11,10 +11,7 @@
 
 
 
-Proficient in designing and implementing data-driven solutions using cloud platforms like Azure, with expertise in developing and monitoring compute environments and data pipelines. Skilled in optimizing and orchestrating Azure Data Factory pipelines, as well as integrating Azure services with third-party APIs to support dynamic and scalable backend systems.
-
-Dedicated to maintaining robust and secure data systems, ensuring high availability, reliability, and compliance with regulations such as GDPR. Experienced in designing data storage solutions, implementing data governance practices, and troubleshooting complex backend and data integration challenges.**.
-
+Microsoft Fabric Data Engineer
 
 
 
