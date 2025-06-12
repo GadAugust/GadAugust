@@ -11,7 +11,8 @@
 
 
 
-Microsoft Fabric Data Engineer
+Python Developer | Data Engineer| Cloud infrastructure | Data architecture
+
 
 
 
